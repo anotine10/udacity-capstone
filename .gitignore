@@ -3,3 +3,5 @@
 .ipynb_checkpoints/capstone-checkpoint.ipynb
 data/processed/test.json
 data/processed/train.json
+data/generated/_0_3070.jpeg
+*.jpeg
