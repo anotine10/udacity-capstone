@@ -49,7 +49,7 @@ matplotlib                2.1.1            py36h2fb3e9e_0
 mkl                       2018.0.1             hfbd8650_4  
 mxnet                     1.0.0                    py36_0  
 ncurses                   6.0                  hd04f020_2  
-numpy                     1.13.3           py36h2cdce51_0  
+numpy                     1.12.1           py36h8871d66_1  
 opencv                    3.3.1            py36h60a5f38_1  
 openssl                   1.0.2n               hdbc3d79_0  
 pandas                    0.22.0           py36h0a44026_0  
@@ -60,6 +60,7 @@ pickleshare               0.7.4            py36hf512f8e_0
 pip                       9.0.1            py36h1555ced_4  
 pixman                    0.34.0               hca0a616_3  
 prompt_toolkit            1.0.15           py36haeda067_0  
+protobuf                  3.4.1            py36h314970b_0  
 ptyprocess                0.5.2            py36he6521c3_0  
 py-mxnet                  1.0.0            py36h0a44026_0  
 pycparser                 2.18             py36h724b2fc_1  
@@ -80,11 +81,13 @@ simplegeneric             0.8.1            py36he5b5b09_0
 six                       1.11.0           py36h0e22d5e_1  
 sklearn                   0.0                       <pip>
 sqlite                    3.21.0               h3efe00b_0  
+tensorflow                1.1.0               np112py36_0  
 tk                        8.6.7                h35a86e2_3  
 tornado                   4.5.3                    py36_0  
 traitlets                 4.3.2            py36h65bd3ce_0  
 urllib3                   1.22             py36h68b9469_0  
 wcwidth                   0.1.7            py36h8c6ec74_0  
+werkzeug                  0.14.1                   py36_0  
 wheel                     0.30.0           py36h5eb2c71_1  
 xz                        5.2.3                h0278029_2  
 zeromq                    4.2.2                ha360ad0_2  
